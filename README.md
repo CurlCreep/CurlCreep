@@ -1,5 +1,5 @@
-## Full-stack Developer.
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,ts,nodejs,nextjs,vue,react,golang,django,aws,firebase)](https://skillicons.dev)
+### Full-stack Developer.
+[![My Skills](https://skillicons.dev/icons?i=python,html,js,ts,nodejs,nextjs,vue,react,golang,django,aws,firebase)](https://skillicons.dev)
 
 <!--
 **CurlCreep/CurlCreep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
