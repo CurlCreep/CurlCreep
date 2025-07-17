@@ -1,4 +1,4 @@
-### Full-stack Developer.
+### Full-stack Developer | Cybersecurity Analyst.
 [![My Skills](https://skillicons.dev/icons?i=python,html,js,ts,nodejs,nextjs,vue,react,golang,django,aws,firebase,supabase)](https://skillicons.dev)
 
 <!--
